@@ -1,0 +1,221 @@
+*{
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  font-family: Sofia;
+}
+.img img{
+  height: 250px;
+  border: 2px solid black;
+  margin-left: 25px;
+  margin-top: 25px;
+  border-radius: 50%
+}
+.img{
+  border: 2px solid white;
+  background-color: whitesmoke;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  height: 565px;
+}
+h1{
+  color: forestgreen;
+  font-size: 3rem;
+  margin-left: 200px;
+  margin-top: 50px;
+  font-weight: bolder;
+  text-decoration-line: underline;
+  margin-bottom: 10px;
+  background-color: whitesmoke;
+}
+.details p{
+  margin-top: 10px;
+  background-color: whitesmoke;
+  font-size: 2rem;
+  margin-left: 200px;
+}
+.details{
+  background-color: whitesmoke;
+}
+.full{
+  background-color: black;
+}
+i{
+  background-color: whitesmoke;
+  color: blue;
+}
+.call{
+  display: flex;
+  background-color: whitesmoke;
+}
+#num1{
+  margin-left: 20px;
+}
+.fle{
+  display: flex;
+  background-color: whitesmoke;
+  border-radius: 20px;
+}
+.company{
+  text-align: center;
+  background-color: whitesmoke;
+}
+.company p{
+  color: orangered;
+  font-size: 4rem;
+  background-color: whitesmoke;
+  margin-top: 0px;
+  font-weight: bolder;
+}
+.head{
+  text-align: center;
+  border-radius: 50%;
+}
+.head p{
+  color: chocolate;
+  font-size: 4rem;
+  padding: 0px;
+  border-radius: 20px;
+}
+.location{
+  display: flex;
+  background-color: whitesmoke;
+  margin-top: 0px;
+}
+.location p{
+  background-color: whitesmoke;
+  font-size: 2.5rem;
+}
+.location i{
+  font-size: 2.5rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.color{
+  height: 20px;
+  width: 600;
+  margin-top: 0px;
+  border-radius: 20px;
+  background-color: orange;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.Information{
+  height: auto;
+  background-color: whitesmoke;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 40px;
+  border-radius: 40px;
+  margin-bottom: 50px;
+}
+.flex img{
+  height: 275px;
+  width: 275px;
+  border: 2px solid black;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.flex p{
+  background-color: transparent;
+  color: green;;
+  margin-left: 30px;
+  font-size: 2.5rem;
+  margin-top: 25px;
+  font-weight: bolder;
+  margin-right: 20px;
+}
+.desp{
+  height: 270px;
+  text-align: center;
+  justify-content: center;
+  margin-top: 25px;
+  background-color: transparent;
+}
+.flex{
+  display: flex;
+  background-color: transparent;
+}
+.find{
+  text-align: center;
+  background-color: whitesmoke;
+}
+.find p{
+  font-size: 3rem;
+  background-color: whitesmoke;
+  font-weight: bolder;
+  text-decoration-line: underline;
+  margin-top: 20px;
+}
+.fb{
+  background-color: transparent;
+  display: flex;
+}
+.fb i{
+  font-size: 6rem;
+  margin-top: 50px;
+}
+.fb p{
+  background-color: transparent;
+  font-size: 2.5rem;
+  margin-top: 80px;
+  font-weight: bold;
+}
+a{
+  background-color: transparent;
+}
+.social{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: transparent;
+}
+#insta{
+  color: deeppink;
+}
+#whats{
+  color: forestgreen;
+}
+#tweet{
+  color: aqua;
+}
+footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+  font-size: 2rem;
+  border-radius: 30px;
+  margin-bottom: 50px;
+}
+#badge{
+  background-color: transparent;
+  margin-left: 20px;
+  font-size: 3rem;
+  color: cornflowerblue;
+}
+.create{
+  background-color: transparent;
+  margin-top: 50px;
+}
+#i{
+  background-color: transparent;
+  font-size: 3rem;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+#c{
+  background-color: transparent;
+  margin-left: 20px;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+.create a{
+  margin-left: 20px;
+  font-size: 2rem;
+}
+hr{
+  margin-top: 100px;
+}
